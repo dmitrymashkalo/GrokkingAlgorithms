@@ -1,6 +1,6 @@
 <img src="https://github.com/dmitrymashkalo/GrokkingAlgorithms/blob/master/book_cover.jpg" alt="Book Cover" width="250" height="350">
 <h2>Grokking Algorithms</h2>
-<h4>An ellustrated guide for programmers and other curious people</h4>
+<h4>An illustrated guide for programmers and other curious people</h4>
 This book is designed to be easy to follow. I avoid big leaps of thought. Any time a new concept is introduced, I explain it right away or tell you when I’ll explain it. Core concepts are reinforced with exercises and multiple explanations so that you can check your assumptions and make sure you’re following along.
 
 I lead with examples. Instead of writing symbol soup, my goal is to make it easy for you to visualize these concepts. I also think we learn best by being able to recall something we already know, and examples make recall easier. So when you’re trying to remember the difference between arrays and linked lists (explained in chapter 2), you can just think about getting seated for a movie. Also, at the risk of stating the obvious, I’m a visual learner. This book is chock-full of images.
