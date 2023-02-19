@@ -1,4 +1,4 @@
-<img src="https://github.com/dmitrymashkalo/GrokkingAlgorithms/blob/master/book_cover.jpg" alt="Book Cover" width="250" height="350">
+<img src="https://github.com/dmitrymashkalo/GrokkingAlgorithms/blob/main/book_cover.jpg" alt="Book Cover" width="250" height="350">
 <h2>Grokking Algorithms</h2>
 <h4>An illustrated guide for programmers and other curious people</h4>
 This book is designed to be easy to follow. I avoid big leaps of thought. Any time a new concept is introduced, I explain it right away or tell you when I’ll explain it. Core concepts are reinforced with exercises and multiple explanations so that you can check your assumptions and make sure you’re following along.
