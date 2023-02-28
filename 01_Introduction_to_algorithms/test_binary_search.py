@@ -17,8 +17,7 @@ class TestBinarySearch(TestCase):
         self.assertEqual(binary_search([1, 2, 2, 3, 4, 5], 2), 2)
 
     def test_large_list(self):
-        arr = list(range(10000))
-        self.assertEqual(binary_search(arr, 9999), 9999)
+        self.assertEqual(binary_search(list(range(10000)), 9999), 9999)
 
     def test_empty_list(self):
         self.assertEqual(binary_search([], 5), -1)
