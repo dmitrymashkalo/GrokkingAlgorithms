@@ -12,7 +12,3 @@ def selection_sort(arr: list) -> list:
         arr[i], arr[min_index] = arr[min_index], arr[i]
 
     return arr
-
-
-arr = [0, 1, 2, 3, 4, 5]
-print(len(arr))
